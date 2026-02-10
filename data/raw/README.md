@@ -14,11 +14,7 @@ Place your original, unmodified dataset files here.
 
 | File | Source | Date Obtained | Description |
 |------|--------|---------------|-------------|
-| day.csv | Kaggle | 2/9/26 | Daily count of rental bikes between 2011 and 2012 in a bike sharing system containing corresponding weather and seasonal details. Important to note this file does not have variable `hr`. |
-
-| File | Source | Date Obtained | Description |
-|------|--------|---------------|-------------|
-| hour.csv | Kaggle | 2/9/26 | Hourly count of rental bikes between 2011 and 2012 in a bike sharing system containing corresponding weather and seasonal details.  |
+| your_data.csv | [URL or source] | [Date] | [Brief description] |
 
 ## If Data Cannot Be Shared
 
